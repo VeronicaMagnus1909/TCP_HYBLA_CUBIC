@@ -107,7 +107,7 @@ set ns_   [new Simulator]
   $ns_ at 0 "$ftp1 start"
 
   set tcp2 [new Agent/TCP/Linux]
-  $ns_ at 0 "$tcp1 select_ca hybla"
+  $ns_ at 0 "$tcp2 select_ca hybla"
   $tcp2 set class_ 1
   set sink2 [new Agent/TCPSink/Sack1]
   $ns_ attach-agent $W(1) $tcp2
