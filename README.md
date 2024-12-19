@@ -4,7 +4,7 @@
 
 For comparison between 2 congestion control algorithm in satellite and hetegenous communication
 
-# Architecture
+## Architecture
 ### Model 1: Wired
 
 ![image](https://github.com/user-attachments/assets/912afe3f-659a-40c3-a354-f9a9fbaddfbc)
@@ -13,7 +13,7 @@ For comparison between 2 congestion control algorithm in satellite and hetegenou
 
 ![image](https://github.com/user-attachments/assets/9a75106f-905d-449d-a660-4fccd02f70a6)
 
-# Result
+## Result
 ### Model 1: Wired
 :one: **TCP Standard**
 
@@ -39,8 +39,8 @@ For comparison between 2 congestion control algorithm in satellite and hetegenou
 ![image](https://github.com/user-attachments/assets/c0c2e5dc-d684-4334-8f45-5972488671bf)
 
 :owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl::owl:
-# Step by Step 
-## 1. Install tools
+## Step by Step 
+### 1. Install tools
 * install Ubuntu
 * Install NS-2
 * Install nam
@@ -58,14 +58,14 @@ ns
 
 ```
 
-## 2. Run code
+### 2. Run code
 :point_right: **Step 1**: Model1_wired_com
 
 :point_right: **Step 2**: Model2_satellite_com
 
 :point_right: **Step 3**: Plot images
 
-# Contact
+## Contact
 :boom: [Le Van Minh](https://github.com/VeronicaMagnus1909) :boom:
 
 
