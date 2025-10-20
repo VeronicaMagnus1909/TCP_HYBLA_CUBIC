@@ -4,6 +4,13 @@
 
 For comparison between 2 congestion control algorithm in satellite and hetegenous communication
 
+### Team member:
+1. Le Van Minh (leader)
+2. Pham Chi Vy
+3. Dao Duy Anh
+
+
+
 ## Architecture
 ### Model 1: Wired
 
